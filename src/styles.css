@@ -1,0 +1,12 @@
+*{
+  /* para forçar a zerar as configs do navegador */
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  color: antiquewhite;
+}
+
+body{
+  background-color: #1f1147;
+}
